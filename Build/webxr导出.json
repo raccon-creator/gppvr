@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GPPVR",
+"productVersion": "0.1",
+"dataUrl": "webxr导出.data.unityweb",
+"wasmCodeUrl": "webxr导出.wasm.code.unityweb",
+"wasmFrameworkUrl": "webxr导出.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1c1"
+}
